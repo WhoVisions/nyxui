@@ -15,3 +15,16 @@ A modern and flexible UI library built for Next.js projects, leveraging [Tailwin
 ## ❤️ Support
 
 If you like Nyx UI, give it a ⭐ on GitHub and share it with your network!
+
+<!-- nougen:fleet-role:begin (generated from NouGenRelay fleet/manifest.json; edit the manifest, not this block) -->
+## Fleet role
+
+| | |
+|---|---|
+| Role | Nyx UI is a curated library of modular components that can be easily integrated into your web applications. It offers a versatile selection of components, blocks, and templates designed to accelerate your development process. |
+| Kind | genesis_domain |
+| Status | canonical |
+| Canonical for | nyxui |
+| Visibility | public |
+
+<!-- nougen:fleet-role:end -->
